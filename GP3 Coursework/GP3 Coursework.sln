@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP3 Coursework", "GP3 Coursework\GP3 Coursework\GP3 Coursework.csproj", "{A8F175DF-DCB0-4997-B655-2DBCA4CB3365}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GP3 CourseworkContent", "GP3 Coursework\GP3 CourseworkContent\GP3 CourseworkContent.contentproj", "{A9C149A7-3373-40D4-A275-9D2F9335BBEE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Content", "GameStateManagement\GameStateManagementContent\Content.contentproj", "{B7233672-A352-4D5E-9081-D9EE23B2C02F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A8F175DF-DCB0-4997-B655-2DBCA4CB3365}.Debug|x86.ActiveCfg = Debug|x86
+		{A8F175DF-DCB0-4997-B655-2DBCA4CB3365}.Debug|x86.Build.0 = Debug|x86
+		{A8F175DF-DCB0-4997-B655-2DBCA4CB3365}.Release|x86.ActiveCfg = Release|x86
+		{A8F175DF-DCB0-4997-B655-2DBCA4CB3365}.Release|x86.Build.0 = Release|x86
+		{A9C149A7-3373-40D4-A275-9D2F9335BBEE}.Debug|x86.ActiveCfg = Debug|x86
+		{A9C149A7-3373-40D4-A275-9D2F9335BBEE}.Release|x86.ActiveCfg = Release|x86
+		{B7233672-A352-4D5E-9081-D9EE23B2C02F}.Debug|x86.ActiveCfg = Debug|x86
+		{B7233672-A352-4D5E-9081-D9EE23B2C02F}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

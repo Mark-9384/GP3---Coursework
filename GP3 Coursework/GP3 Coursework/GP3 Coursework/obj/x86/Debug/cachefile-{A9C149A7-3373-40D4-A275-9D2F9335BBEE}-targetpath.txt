@@ -1,0 +1,35 @@
+Content\bgLayer1.xnb
+Content\bgLayer2.xnb
+Content\mainbackground.xnb
+Content\sky-stars-background.xnb
+Content\sky-stars-backgroundedit1.xnb
+Content\Models\Feisar_Ship.xnb
+Content\diffuse_0.xnb
+Content\Boost Bar.xnb
+Content\Models\cottus_elec.xnb
+Content\FBX\2C28317F\cottus_elec.fbm\cottus_elecgun_0.xnb
+Content\FBX\2C28317F\cottus_elec.fbm\cottus_body_0.xnb
+Content\Models\wasphunter.xnb
+Content\Models\wasphunter_texture.xnb
+Content\Models\wasphunter_texture_0.xnb
+Content\Zenith_AutoDesk.xnb
+Content\scoreFont.xnb
+Content\Models\H8SHIPscaled.xnb
+Content\Models\AIM7Fscaled.xnb
+Content\explosion.xnb
+Content\Sounds\explosion.xnb
+Content\Sounds\laserFire.xnb
+Content\Sounds\explosion1.xnb
+Content\Models\BattleshipScaled.xnb
+Content\Models\superplane.xnb
+Content\Models\massiveorb.xnb
+Content\Models\magic_orb.xnb
+Content\Models\orb.xnb
+Content\Sounds\42106__marcuslee__laser-wrath-4.xnb
+Content\Sounds\151022__bubaproducer__laser-shot-silenced.xnb
+Content\Sounds\110115__ryansnook__small-explosion.xnb
+Content\Sounds\137040__mateusboga__explosion1.xnb
+Content\Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version).xnb
+Content\Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version).wma
+Content\Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS.xnb
+Content\Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS.wma

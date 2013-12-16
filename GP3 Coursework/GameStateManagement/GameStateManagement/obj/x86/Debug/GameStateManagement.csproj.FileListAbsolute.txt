@@ -1,0 +1,1 @@
+C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GameStateManagement\GameStateManagement\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

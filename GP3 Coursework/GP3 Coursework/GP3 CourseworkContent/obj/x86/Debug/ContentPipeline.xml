@@ -1,0 +1,498 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline" xmlns:Framework="Microsoft.Xna.Framework" xmlns:Processors="Microsoft.Xna.Framework.Content.Pipeline.Processors">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>bgLayer1.png</Source>
+      <Name>bgLayer1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\bgLayer1.xnb</Output>
+      <Time>2013-11-21T14:01:06.9323149+00:00</Time>
+    </Item>
+    <Item>
+      <Source>bgLayer2.png</Source>
+      <Name>bgLayer2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\bgLayer2.xnb</Output>
+      <Time>2013-11-21T14:01:06.9478945+00:00</Time>
+    </Item>
+    <Item>
+      <Source>mainbackground.png</Source>
+      <Name>mainbackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>c:\users\mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\mainbackground.xnb</Output>
+      <Time>2013-11-21T14:01:06.9478945+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sky-stars-background.jpg</Source>
+      <Name>sky-stars-background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\sky-stars-background.xnb</Output>
+      <Time>2013-11-21T14:12:55.6137683+00:00</Time>
+    </Item>
+    <Item>
+      <Source>sky-stars-backgroundedit1.png</Source>
+      <Name>sky-stars-backgroundedit1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\sky-stars-backgroundedit1.xnb</Output>
+      <Time>2013-11-21T14:26:13.7136936+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\Feisar_Ship.FBX</Source>
+      <Name>Models\Feisar_Ship</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\Feisar_Ship.xnb</Output>
+      <Time>2013-11-21T15:45:53.1915797+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\Feisar_Ship_0.xml</Key>
+        <Value>2013-11-21T15:46:02.5662755+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\diffuse_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\Feisar_Ship.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\Feisar_Ship_0.xml</Output>
+      <Time>2013-11-21T15:45:53.1915797+00:00</Time>
+    </Item>
+    <Item>
+      <Source>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\diffuse.bmp</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\diffuse_0.xnb</Output>
+      <Time>2011-03-13T14:20:26.4098864+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Boost Bar.png</Source>
+      <Name>Boost Bar</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Boost Bar.xnb</Output>
+      <Time>2013-11-23T13:30:41.5566836+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\cottus_elec.FBX</Source>
+      <Name>Models\cottus_elec</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\cottus_elec.xnb</Output>
+      <Time>2013-11-26T15:40:39.029839+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\cottus_elec_0.xml</Key>
+        <Value>2013-11-26T17:41:42.9855082+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\FBX\2C28317F\cottus_elec.fbm\cottus_elecgun_0.xnb</Request>
+      <Request>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\FBX\2C28317F\cottus_elec.fbm\cottus_body_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\cottus_elec.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\cottus_elec_0.xml</Output>
+      <Time>2013-11-26T15:40:39.029839+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\2C28317F\cottus_elec.fbm\cottus_elecgun.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\FBX\2C28317F\cottus_elec.fbm\cottus_elecgun_0.xnb</Output>
+      <Time>2013-11-26T17:41:42.6994221+00:00</Time>
+    </Item>
+    <Item>
+      <Source>obj\x86\Debug\FBX\2C28317F\cottus_elec.fbm\cottus_body.tga</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\FBX\2C28317F\cottus_elec.fbm\cottus_body_0.xnb</Output>
+      <Time>2013-11-26T17:41:42.7014231+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wasphunter.FBX</Source>
+      <Name>Models\wasphunter</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\wasphunter.xnb</Output>
+      <Time>2013-11-28T18:41:49.2814733+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\wasphunter_0.xml</Key>
+        <Value>2013-11-28T18:42:03.7841565+00:00</Value>
+      </Dependency>
+      <Request>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\wasphunter_texture_0.xnb</Request>
+    </Item>
+    <Item>
+      <Source>Models\wasphunter.FBX</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\wasphunter_0.xml</Output>
+      <Time>2013-11-28T18:41:49.2814733+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wasphunter_texture.jpg</Source>
+      <Name>Models\wasphunter_texture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\wasphunter_texture.xnb</Output>
+      <Time>2013-11-28T18:42:51.877002+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\wasphunter_texture.jpg</Source>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Parameters>
+        <Data Key="ColorKeyColor" Type="Framework:Color">FFFF00FF</Data>
+        <Data Key="ColorKeyEnabled" Type="bool">true</Data>
+        <Data Key="TextureFormat" Type="Processors:TextureProcessorOutputFormat">DxtCompressed</Data>
+        <Data Key="GenerateMipmaps" Type="bool">true</Data>
+        <Data Key="ResizeToPowerOfTwo" Type="bool">false</Data>
+        <Data Key="PremultiplyAlpha" Type="bool">true</Data>
+      </Parameters>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\wasphunter_texture_0.xnb</Output>
+      <Time>2013-11-28T18:42:51.877002+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Zenith_AutoDesk.fbx</Source>
+      <Name>Zenith_AutoDesk</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Zenith_AutoDesk.xnb</Output>
+      <Time>2013-11-28T18:52:13.9966327+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Zenith_AutoDesk_0.xml</Key>
+        <Value>2013-11-28T18:52:55.4548779+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Zenith_AutoDesk.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Zenith_AutoDesk_0.xml</Output>
+      <Time>2013-11-28T18:52:13.9966327+00:00</Time>
+    </Item>
+    <Item>
+      <Source>scoreFont.spritefont</Source>
+      <Name>scoreFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\scoreFont.xnb</Output>
+      <Time>2013-12-03T13:20:58.0555932+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\H8SHIPscaled.fbx</Source>
+      <Name>Models\H8SHIPscaled</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\H8SHIPscaled.xnb</Output>
+      <Time>2013-12-03T14:11:39.1844277+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\H8SHIPscaled_0.xml</Key>
+        <Value>2013-12-03T14:12:11.292128+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\H8SHIPscaled.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\H8SHIPscaled_0.xml</Output>
+      <Time>2013-12-03T14:11:39.1844277+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\AIM7Fscaled.fbx</Source>
+      <Name>Models\AIM7Fscaled</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\AIM7Fscaled.xnb</Output>
+      <Time>2013-12-03T15:11:06.7437526+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\AIM7Fscaled_0.xml</Key>
+        <Value>2013-12-03T15:11:10.4461054+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\AIM7Fscaled.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\AIM7Fscaled_0.xml</Output>
+      <Time>2013-12-03T15:11:06.7437526+00:00</Time>
+    </Item>
+    <Item>
+      <Source>explosion.png</Source>
+      <Name>explosion</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\explosion.xnb</Output>
+      <Time>2013-12-06T14:06:48.7639029+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion.wav</Source>
+      <Name>Sounds\explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\explosion.xnb</Output>
+      <Time>2013-12-06T17:39:59.568123+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\laserFire.wav</Source>
+      <Name>Sounds\laserFire</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\laserFire.xnb</Output>
+      <Time>2013-12-06T17:45:13.5011363+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\explosion1.wav</Source>
+      <Name>Sounds\explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\explosion1.xnb</Output>
+      <Time>2013-12-06T17:56:19.8257602+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\BattleshipScaled.fbx</Source>
+      <Name>Models\BattleshipScaled</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\BattleshipScaled.xnb</Output>
+      <Time>2013-12-11T11:22:53.4967357+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\BattleshipScaled_0.xml</Key>
+        <Value>2013-12-11T11:24:22.942836+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\BattleshipScaled.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\BattleshipScaled_0.xml</Output>
+      <Time>2013-12-11T11:22:53.4967357+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\superplane.fbx</Source>
+      <Name>Models\superplane</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\superplane.xnb</Output>
+      <Time>2013-12-11T12:08:46.2609736+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\superplane_0.xml</Key>
+        <Value>2013-12-11T12:08:52.2019342+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\superplane.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\superplane_0.xml</Output>
+      <Time>2013-12-11T12:08:46.2609736+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\massiveorb.fbx</Source>
+      <Name>Models\massiveorb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\massiveorb.xnb</Output>
+      <Time>2013-12-11T12:33:03.6449572+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\massiveorb_0.xml</Key>
+        <Value>2013-12-11T12:33:10.0837652+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\massiveorb.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\massiveorb_0.xml</Output>
+      <Time>2013-12-11T12:33:03.6449572+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\magic_orb.fbx</Source>
+      <Name>Models\magic_orb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\magic_orb.xnb</Output>
+      <Time>2013-12-11T12:45:29.6604958+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\magic_orb_0.xml</Key>
+        <Value>2013-12-11T12:45:33.9420252+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\magic_orb.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\magic_orb_0.xml</Output>
+      <Time>2013-12-11T12:45:29.6604958+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Models\orb.fbx</Source>
+      <Name>Models\orb</Name>
+      <Importer>FbxImporter</Importer>
+      <Processor>ModelProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Models\orb.xnb</Output>
+      <Time>2013-12-11T12:48:34.3546094+00:00</Time>
+      <Dependency>
+        <Key>obj\x86\Debug\Models\orb_0.xml</Key>
+        <Value>2013-12-11T12:48:42.7536963+00:00</Value>
+      </Dependency>
+    </Item>
+    <Item>
+      <Source>Models\orb.fbx</Source>
+      <Importer>FbxImporter</Importer>
+      <Options>IntermediateFile, DontCacheImportedData</Options>
+      <Output>obj\x86\Debug\Models\orb_0.xml</Output>
+      <Time>2013-12-11T12:48:34.3546094+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\42106__marcuslee__laser-wrath-4.wav</Source>
+      <Name>Sounds\42106__marcuslee__laser-wrath-4</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\42106__marcuslee__laser-wrath-4.xnb</Output>
+      <Time>2013-12-11T14:17:18.5072754+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\151022__bubaproducer__laser-shot-silenced.wav</Source>
+      <Name>Sounds\151022__bubaproducer__laser-shot-silenced</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\151022__bubaproducer__laser-shot-silenced.xnb</Output>
+      <Time>2013-12-11T14:22:23.4443945+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\110115__ryansnook__small-explosion.wav</Source>
+      <Name>Sounds\110115__ryansnook__small-explosion</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\110115__ryansnook__small-explosion.xnb</Output>
+      <Time>2013-12-11T14:46:00.615772+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Sounds\137040__mateusboga__explosion1.wav</Source>
+      <Name>Sounds\137040__mateusboga__explosion1</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Sounds\137040__mateusboga__explosion1.xnb</Output>
+      <Time>2013-12-11T14:46:00.6197735+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version).mp3</Source>
+      <Name>Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version)</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version).xnb</Output>
+      <Extra>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Audio\Ylvis - What Does The Fox Say_ (8-Bit NES Version).wma</Extra>
+      <Time>2013-12-11T20:04:20.7024947+00:00</Time>
+    </Item>
+    <Item>
+      <Source>Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS.mp3</Source>
+      <Name>Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS.xnb</Output>
+      <Extra>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\Audio\DRIVE for the SEGA MASTER SYSTEM_GENESIS.wma</Extra>
+      <Time>2013-12-16T10:36:54.0782829+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 CourseworkContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 CourseworkContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Mark\documents\visual studio 2010\Projects\GP3 Coursework\GP3 Coursework\GP3 Coursework\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-11-18T23:54:46.5632737+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
